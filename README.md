@@ -17,7 +17,7 @@ A Next.js starter with TypeScript, Tailwind CSS, JSDoc and robust linting.
 First, install the dependencies:
 
 ```bash
-npx create-next-app my-awesome-app --example https://github.com/gregrickaby/nextjs-typescript-starter
+npx create-next-app my-awesome-app --example https://github.com/MiroslavKubasek/nextjs-typescript-starter
 ```
 
 Then, run the development server:
